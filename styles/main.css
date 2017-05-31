@@ -1,6 +1,15 @@
+/* INFO
+Theme None:
+Description: Simple CSS for learning
+Author: Jaime Campbell
+Author URI: https://nowebsite.com
+Tags: Website, student, test
+*/
+
 /************* Main content ***********/
 
-/************* Font elements **********/
+/************* General styles **********/
+
 
 h1 {
   font-size: 40px;
@@ -18,4 +27,17 @@ p {
   font-size: 14px;
 }
 
-h1, h2, h3 {font-family: League Gothic, color: #303F5A}
+h1, h2, h3 {
+font-family: Arial, sans-serif;
+font-weight:normal;
+font-size: 55px;
+text-align: center;
+color: #303F5A;
+margin: 0;
+padding: 0;
+}
+
+
+/************* Nav Style ***********/
+
+/************* Footer Style ***********/
