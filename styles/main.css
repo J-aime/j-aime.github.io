@@ -30,8 +30,8 @@ p {
 h1, h2, h3 {
   font-family: "League Gothic", Impact, sans-serif;
   font-weight:normal;
-  /*line-height: 0.9em;
-  letter-spacing: 0.02em; */
+  line-height: 2em;
+  letter-spacing: 0.02em;
   text-align: center;
   text-transform: uppercase;
   text-shadow: none;
