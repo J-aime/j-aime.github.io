@@ -11,11 +11,10 @@ Tags: Website, student, test
 /* Blog container */
 .blog-container {
   background-color: aliceblue;
-  font-family: monospace;
 }
 
-
-
+.blog-container p {
+  font-family: monospace;
 }
 
 
