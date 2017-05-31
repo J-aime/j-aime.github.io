@@ -8,7 +8,17 @@ Tags: Website, student, test
 
 /************* Main content ***********/
 
-/************* General styles **********/
+/* Blog container */
+.blog-container {
+  background-color: aliceblue;
+}
+
+.blog-container p {
+  font-family: monospace;
+}
+
+
+/************* Typography **********/
 
 
 h1 {
